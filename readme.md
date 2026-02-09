@@ -1,1 +1,1 @@
-this is weather app created using api integration 
+this is weather app created using api integration . This app takes city name as input and displays current weather of that city
